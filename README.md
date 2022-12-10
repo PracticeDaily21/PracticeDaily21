@@ -4,7 +4,8 @@ I bring years of experience as a data-driven business analyst, with strong analy
 
 ### My Hobbies
 - 👀 I’m interested in learning, speaking, reading, laughing and sleeping as well.
-- 
+
+#### OMG so much work to do (Update on Dec.10th, 2022)
 
 <!---
 PracticeDaily21/PracticeDaily21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
