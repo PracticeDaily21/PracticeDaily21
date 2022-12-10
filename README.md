@@ -1,3 +1,5 @@
+## Hi 👋 My name is Yiyi (Amy) Cao
+
 - 👋 Hi, I’m @PracticeDaily21, master candidate at Columbia University in New York.
 - 👀 I’m interested in learning, speaking, reading, laughing and sleeping as well.
 - 🌱 I’m currently learning topics in computer science with applications in finance.
