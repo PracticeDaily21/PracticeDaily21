@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PracticeDaily21, master candidate at Columbia University in New York.
 - 👀 I’m interested in learning, speaking, reading, laughing and sleeping as well.
 - 🌱 I’m currently learning topics in computer science with applications in finance.
-- 💞️ I’m seeking for any opportunity on applied analytics to solve the real problem. 
+- 💞️ I’m seeking for any opportunity on applied analytics to solve the real world problem. 
 - 📫 Glad to connect via LinkedIn and feel free to reach out. www.linkedin.com/in/yiyi-cao-amy
 
 <!---
