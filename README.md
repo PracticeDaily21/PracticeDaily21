@@ -5,7 +5,7 @@ I bring years of experience as a data-driven analyst, with analytical skills and
 ### My Hobbies:
 - 👀 I’m interested in learning, speaking, reading, laughing and sleeping as well. I favor delicious food, outdoor activities and party with friends.
 
-#### Possibly in future, Becoming a self-taught Software Engineer / Full-Stack Web Developer 
+#### Possibly in future, Becoming a self-taught Software Engineer / Full-Stack Web Developer, no idea we'll see. 
 
 <!---
 PracticeDaily21/PracticeDaily21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
