@@ -1,11 +1,11 @@
 ## Hi 👋 My name is Yiyi (Amy) Cao
 ### Currently open to resarch or analytical interns in Summer 2025, i.e. data analyst/ data scientist (remotely or on-site).
-I bring years of experience as a data-driven business analyst, with strong analytical skills and hands-on experience applying Microsoft Excel, SQL, R and Python. Taken 2-year courses in Business (including Marketing/ Accounting/ Economics/ Finance/ International Trade) in Zhejiang University of Finance and Economics, I graduated with a Math major from University of Minnesota - Twin Cities. In December 2022, I completed my degree in Applied Analytics (STEM-Computer and Information Science) at Columbia University, with many practical projects solving real-world problems. Now as a Applied Math PhD at SUNY Binghamton University, I am seeking full-time data-oriented jobs and learning to become a better self in a team.
+I bring years of experience as a data-driven analyst, with analytical skills and hands-on experience applying Microsoft Excel, SQL, R and Python. With a diverse education background, my expert focuses on data analytics, data science, and machine learning. I graduated with a Math major for Bachelor's degree from University of Minnesota - Twin Cities, and I completed my Master degree in Applied Analytics at Columbia University, with practical projects solving real-world problems. 
 
-### My Professional Hobbies: Becoming a self-taught Software Engineer / Full-Stack Web Developer 
-- 👀 I’m interested in learning, speaking, reading, laughing and sleeping as well. I like outdoor activities and sports.
+### My Hobbies:
+- 👀 I’m interested in learning, speaking, reading, laughing and sleeping as well. I favor delicious food, outdoor activities and party with friends.
 
-#### OMG so much work to do
+#### Possibly in future, Becoming a self-taught Software Engineer / Full-Stack Web Developer 
 
 <!---
 PracticeDaily21/PracticeDaily21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
