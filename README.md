@@ -1,5 +1,5 @@
 ## Hi 👋 My name is Yiyi (Amy) Cao
-### Currently open to resarch or analytical interns in Summer 2025, i.e. data scientist (remotely or on-site).
+### Currently open to data scientist interns in Summer 2025
 I bring years of experience as a data-driven analyst, with analytical skills and hands-on experience applying Microsoft Excel, SQL, R and Python. With a math/stat/IT background, my expert focuses on data analytics, data science, and machine learning. I graduated with a Math major for Bachelor's degree and completed my Master degree in Applied Analytics, with practical projects solving real-world problems. 
 
 ### My Hobbies:
